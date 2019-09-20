@@ -3,7 +3,7 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(../../lib/font/gotham/gotham.css);
+@import url(../font/gotham/gotham.css);
 @import url(../jetbrains-bundle/fonts/fonts.css);
 @import url(../jetbrains-bundle/footer/footer.css);
 @import url(../jetbrains-bundle/grid/grid.css);

@@ -1,0 +1,1183 @@
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Create media query UP or DOWN
+ * @param {String|Number} $key
+ * @param {String|Number} $value
+ * @param {String} $direction
+ * @private
+ * @returns {String}
+ */
+/**
+ * Create media query between two values
+ * @param {String|Number} $value1
+ * @param {String|Number} $value2
+ * @private
+ * @returns {String}
+ */
+/**
+ * Validate and get media breakpoint
+ * @param {String|Number} $key
+ * @param {Map} $breakpoints-with-default
+ * @private
+ * @returns {String}
+ */
+/**
+ * Create media breakpoint or simple styles without a breakpoint
+ * @param {String|Number} $key
+ * @param {Map} $breakpoints-with-default
+ * @param {String} $direction down|up
+ * @returns {String}
+ */
+/**
+ * Create all breakpoints.
+ * .CLASS_NAME-sm, .CLASS_NAME-md etc.
+ * @param {String} $selector
+ * @param {Map} $breakpoints-with-default
+ * @param {String} $direction down|up
+ * @returns {String}
+ */
+/**
+ * Create DOWN media breakpoints
+ * @example @media screen and (max-width: BREAK_SIZE) { ... }
+ * @param {String|Number} $breakpoint
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+/**
+ * Create UP media breakpoints
+ * @example @media screen and (min-width: BREAK_SIZE) { ... }
+ * @param {String|Number} $breakpoint
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+/**
+ * Create media breakpoints between UP and Down
+ * @example @media screen and (min-width: BREAK_SIZE_1) and (max-width: BREAK_SIZE_2) { ... }
+ * @param {String|Number} $breakpoint-up
+ * @param {String|Number} $breakpoint-down
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Utils
+ * @collection core
+ * @description Base utils on core
+ */
+/**
+ * Dependencies
+ */
+/**
+ * @name Core config file
+ * @version 1.0
+ * @description Config on core styles
+ */
+/**
+ * Dependencies
+ */
+/**
+ * Make retina media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Make print media query
+ * Returns the @content (This mixin is helper)
+ * @returns {String}
+ */
+/**
+ * Create media query UP or DOWN
+ * @param {String|Number} $key
+ * @param {String|Number} $value
+ * @param {String} $direction
+ * @private
+ * @returns {String}
+ */
+/**
+ * Create media query between two values
+ * @param {String|Number} $value1
+ * @param {String|Number} $value2
+ * @private
+ * @returns {String}
+ */
+/**
+ * Validate and get media breakpoint
+ * @param {String|Number} $key
+ * @param {Map} $breakpoints-with-default
+ * @private
+ * @returns {String}
+ */
+/**
+ * Create media breakpoint or simple styles without a breakpoint
+ * @param {String|Number} $key
+ * @param {Map} $breakpoints-with-default
+ * @param {String} $direction down|up
+ * @returns {String}
+ */
+/**
+ * Create all breakpoints.
+ * .CLASS_NAME-sm, .CLASS_NAME-md etc.
+ * @param {String} $selector
+ * @param {Map} $breakpoints-with-default
+ * @param {String} $direction down|up
+ * @returns {String}
+ */
+/**
+ * Create DOWN media breakpoints
+ * @example @media screen and (max-width: BREAK_SIZE) { ... }
+ * @param {String|Number} $breakpoint
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+/**
+ * Create UP media breakpoints
+ * @example @media screen and (min-width: BREAK_SIZE) { ... }
+ * @param {String|Number} $breakpoint
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+/**
+ * Create media breakpoints between UP and Down
+ * @example @media screen and (min-width: BREAK_SIZE_1) and (max-width: BREAK_SIZE_2) { ... }
+ * @param {String|Number} $breakpoint-up
+ * @param {String|Number} $breakpoint-down
+ * @param {Map} $breakpoints-with-default
+ * @returns {String}
+ */
+.header {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.header._default {
+  min-height: 75px;
+  background-color: #3b3e43;
+  color: #fff;
+}
+
+.header._big {
+  height: 75px;
+}
+
+.header._small {
+  height: 40px;
+  background-color: #3b3e43;
+  color: #fff;
+}
+
+.header._light {
+  height: 75px;
+  background-color: #eaeaec;
+  color: #fff;
+}
+
+.header._adaptive {
+  z-index: 1000;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive {
+    position: fixed;
+    height: 50px;
+    min-height: 0;
+  }
+}
+
+.header ._float-left {
+  float: left;
+}
+
+.header ._float-right {
+  float: right;
+}
+
+.page-error .header {
+  background: #fff !important;
+  border-bottom: 1px solid #cccbcb !important;
+  color: #161616 !important;
+}
+
+.header__container._new,
+.g-container._new {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+
+.header__title-product {
+  position: relative;
+  display: inline-block;
+  color: #161616;
+  cursor: default;
+  vertical-align: middle;
+  text-decoration: none;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  white-space: nowrap;
+}
+
+.header__logo {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: opacity 200ms;
+  transition: opacity 200ms;
+  margin-right: 15px;
+}
+
+.header__logo::after {
+  position: absolute;
+  top: 0;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  content: '';
+}
+
+.header._big .header__logo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 75px;
+}
+
+.header._default .header__logo {
+  width: 118px;
+  height: 75px;
+  margin-left: -34px;
+}
+
+.header._default .header__logo:after {
+  top: 50%;
+  left: 0;
+  width: 118px;
+  height: 130px;
+  margin-top: -65px;
+  background-image: url(data:image/svg+xml,%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22120.1%22%20height%3D%22130.2%22%20viewBox%3D%220%200%20120.1%20130.2%22%20xml%3Aspace%3D%22preserve%22%3E%3ClinearGradient%20id%3D%22a%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2231.841%22%20y1%3D%22120.558%22%20x2%3D%22110.24%22%20y2%3D%2273.24%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23FCEE39%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23F37B3D%22%2F%3E%3C%2FlinearGradient%3E%3Cpath%20d%3D%22M118.6%2C71.8c0.9-0.8%2C1.4-1.9%2C1.5-3.2c0.1-2.6-1.8-4.7-4.4-4.9%20c-1.2-0.1-2.4%2C0.4-3.3%2C1.1l0%2C0l-83.8%2C45.9c-1.9%2C0.8-3.6%2C2.2-4.7%2C4.1c-2.9%2C4.8-1.3%2C11%2C3.6%2C13.9c3.4%2C2%2C7.5%2C1.8%2C10.7-0.2l0%2C0l0%2C0%20c0.2-0.2%2C0.5-0.3%2C0.7-0.5l78-54.8C117.3%2C72.9%2C118.4%2C72.1%2C118.6%2C71.8L118.6%2C71.8L118.6%2C71.8z%22%20fill%3D%22url%28%23a%29%22%2F%3E%3ClinearGradient%20id%3D%22b%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2248.361%22%20y1%3D%226.908%22%20x2%3D%22119.918%22%20y2%3D%2269.555%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23EF5A6B%22%2F%3E%3Cstop%20offset%3D%22.57%22%20stop-color%3D%22%23F26F4E%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23F37B3D%22%2F%3E%3C%2FlinearGradient%3E%3Cpath%20d%3D%22M118.8%2C65.1L118.8%2C65.1L55%2C2.5C53.6%2C1%2C51.6%2C0%2C49.3%2C0%20c-4.3%2C0-7.7%2C3.5-7.7%2C7.7v0c0%2C2.1%2C0.8%2C3.9%2C2.1%2C5.3l0%2C0l0%2C0c0.4%2C0.4%2C0.8%2C0.7%2C1.2%2C1l67.4%2C57.7l0%2C0c0.8%2C0.7%2C1.8%2C1.2%2C3%2C1.3%20c2.6%2C0.1%2C4.7-1.8%2C4.9-4.4C120.2%2C67.3%2C119.7%2C66%2C118.8%2C65.1z%22%20fill%3D%22url%28%23b%29%22%2F%3E%3ClinearGradient%20id%3D%22c%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2252.947%22%20y1%3D%2263.641%22%20x2%3D%2210.538%22%20y2%3D%2237.156%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%237C59A4%22%2F%3E%3Cstop%20offset%3D%22.385%22%20stop-color%3D%22%23AF4C92%22%2F%3E%3Cstop%20offset%3D%22.765%22%20stop-color%3D%22%23DC4183%22%2F%3E%3Cstop%20offset%3D%22.957%22%20stop-color%3D%22%23ED3D7D%22%2F%3E%3C%2FlinearGradient%3E%3Cpath%20d%3D%22M57.1%2C59.5C57%2C59.5%2C17.7%2C28.5%2C16.9%2C28l0%2C0l0%2C0c-0.6-0.3-1.2-0.6-1.8-0.9%20c-5.8-2.2-12.2%2C0.8-14.4%2C6.6c-1.9%2C5.1%2C0.2%2C10.7%2C4.6%2C13.4l0%2C0l0%2C0C6%2C47.5%2C6.6%2C47.8%2C7.3%2C48c0.4%2C0.2%2C45.4%2C18.8%2C45.4%2C18.8l0%2C0%20c1.8%2C0.8%2C3.9%2C0.3%2C5.1-1.2C59.3%2C63.7%2C59%2C61%2C57.1%2C59.5z%22%20fill%3D%22url%28%23c%29%22%2F%3E%3ClinearGradient%20id%3D%22d%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2252.174%22%20y1%3D%223.702%22%20x2%3D%2210.771%22%20y2%3D%2237.897%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23EF5A6B%22%2F%3E%3Cstop%20offset%3D%22.364%22%20stop-color%3D%22%23EE4E72%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ED3D7D%22%2F%3E%3C%2FlinearGradient%3E%3Cpath%20d%3D%22M49.3%2C0c-1.7%2C0-3.3%2C0.6-4.6%2C1.5L4.9%2C28.3c-0.1%2C0.1-0.2%2C0.1-0.2%2C0.2l-0.1%2C0%20l0%2C0c-1.7%2C1.2-3.1%2C3-3.9%2C5.1C-1.5%2C39.4%2C1.5%2C45.9%2C7.3%2C48c3.6%2C1.4%2C7.5%2C0.7%2C10.4-1.4l0%2C0l0%2C0c0.7-0.5%2C1.3-1%2C1.8-1.6l34.6-31.2l0%2C0%20c1.8-1.4%2C3-3.6%2C3-6.1v0C57.1%2C3.5%2C53.6%2C0%2C49.3%2C0z%22%20fill%3D%22url%28%23d%29%22%2F%3E%3Cpath%20fill%3D%22%23000%22%20d%3D%22M34.6%2037.4H85.6V88.4H34.6z%22%2F%3E%3Cpath%20fill%3D%22%23FFF%22%20d%3D%22M39%2078.8H58.1V82H39z%22%2F%3E%3Cg%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22M38.8%2C50.8l1.5-1.4c0.4%2C0.5%2C0.8%2C0.8%2C1.3%2C0.8c0.6%2C0%2C0.9-0.4%2C0.9-1.2l0-5.3l2.3%2C0%20l0%2C5.3c0%2C1-0.3%2C1.8-0.8%2C2.3c-0.5%2C0.5-1.3%2C0.8-2.3%2C0.8C40.2%2C52.2%2C39.4%2C51.6%2C38.8%2C50.8z%22%2F%3E%3Cpath%20d%3D%22M45.3%2C43.8l6.7%2C0v1.9l-4.4%2C0V47l4%2C0l0%2C1.8l-4%2C0l0%2C1.3l4.5%2C0l0%2C2l-6.7%2C0%20L45.3%2C43.8z%22%2F%3E%3Cpath%20d%3D%22M55%2C45.8l-2.5%2C0l0-2l7.3%2C0l0%2C2l-2.5%2C0l0%2C6.3l-2.3%2C0L55%2C45.8z%22%2F%3E%3Cpath%20d%3D%22M39%2C54l4.3%2C0c1%2C0%2C1.8%2C0.3%2C2.3%2C0.7c0.3%2C0.3%2C0.5%2C0.8%2C0.5%2C1.4v0%20c0%2C1-0.5%2C1.5-1.3%2C1.9c1%2C0.3%2C1.6%2C0.9%2C1.6%2C2v0c0%2C1.4-1.2%2C2.3-3.1%2C2.3l-4.3%2C0L39%2C54z%20M43.8%2C56.6c0-0.5-0.4-0.7-1-0.7l-1.5%2C0l0%2C1.5%20l1.4%2C0C43.4%2C57.3%2C43.8%2C57.1%2C43.8%2C56.6L43.8%2C56.6z%20M43%2C59l-1.8%2C0l0%2C1.5H43c0.7%2C0%2C1.1-0.3%2C1.1-0.8v0C44.1%2C59.2%2C43.7%2C59%2C43%2C59z%22%2F%3E%3Cpath%20d%3D%22M46.8%2C54l3.9%2C0c1.3%2C0%2C2.1%2C0.3%2C2.7%2C0.9c0.5%2C0.5%2C0.7%2C1.1%2C0.7%2C1.9v0%20c0%2C1.3-0.7%2C2.1-1.7%2C2.6l2%2C2.9l-2.6%2C0l-1.7-2.5h-1l0%2C2.5l-2.3%2C0L46.8%2C54z%20M50.6%2C58c0.8%2C0%2C1.2-0.4%2C1.2-1v0c0-0.7-0.5-1-1.2-1%20l-1.5%2C0v2H50.6z%22%2F%3E%3Cpath%20d%3D%22M56.8%2C54l2.2%2C0l3.5%2C8.4l-2.5%2C0l-0.6-1.5l-3.2%2C0l-0.6%2C1.5l-2.4%2C0L56.8%2C54z%20M58.8%2C59l-0.9-2.3L57%2C59L58.8%2C59z%22%2F%3E%3Cpath%20d%3D%22M62.8%2C54l2.3%2C0l0%2C8.3l-2.3%2C0L62.8%2C54z%22%2F%3E%3Cpath%20d%3D%22M65.7%2C54l2.1%2C0l3.4%2C4.4l0-4.4l2.3%2C0l0%2C8.3l-2%2C0L68%2C57.8l0%2C4.6l-2.3%2C0L65.7%2C54z%22%2F%3E%3Cpath%20d%3D%22M73.7%2C61.1l1.3-1.5c0.8%2C0.7%2C1.7%2C1%2C2.7%2C1c0.6%2C0%2C1-0.2%2C1-0.6v0%20c0-0.4-0.3-0.5-1.4-0.8c-1.8-0.4-3.1-0.9-3.1-2.6v0c0-1.5%2C1.2-2.7%2C3.2-2.7c1.4%2C0%2C2.5%2C0.4%2C3.4%2C1.1l-1.2%2C1.6%20c-0.8-0.5-1.6-0.8-2.3-0.8c-0.6%2C0-0.8%2C0.2-0.8%2C0.5v0c0%2C0.4%2C0.3%2C0.5%2C1.4%2C0.8c1.9%2C0.4%2C3.1%2C1%2C3.1%2C2.6v0c0%2C1.7-1.3%2C2.7-3.4%2C2.7%20C76.1%2C62.5%2C74.7%2C62%2C73.7%2C61.1z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E);
+}
+
+@media screen and (max-width: 960px) {
+  .header._default._adaptive .header__logo {
+    min-width: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 0;
+    margin-left: 0;
+    background-image: url(data:image/svg+xml,%3Csvg%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20700%20700%22%3E%3Ctitle%3Ejetbrains-simple_2%3C%2Ftitle%3E%3Cpath%20d%3D%22M0%200H700V700H0z%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M60.379%20568.75H322.879V612.5H60.379z%22%2F%3E%3Cpath%20d%3D%22M57.428%2C184.315L77.8%2C165.083c5.542%2C6.682%2C10.758%2C10.594%2C17.929%2C10.594%2C7.823%2C0%2C12.877-5.378%2C12.877-15.972V87.5h31.457v72.367c0%2C14.343-3.586%2C24.448-11.246%2C32.109-7.5%2C7.5-18.254%2C11.572-31.294%2C11.572C77.638%2C203.548%2C65.577%2C195.236%2C57.428%2C184.315Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M147.394%2087.5L239.156%2087.5%20239.156%20114.23%20178.688%20114.23%20178.688%20131.67%20233.451%20131.67%20233.451%20156.607%20178.688%20156.607%20178.688%20174.699%20239.971%20174.699%20239.971%20201.592%20147.394%20201.592%20147.394%2087.5%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M280.491%20115.208L246.427%20115.208%20246.427%2087.5%20346.338%2087.5%20346.338%20115.208%20312.111%20115.208%20312.111%20201.592%20280.491%20201.592%20280.491%20115.208%22%2F%3E%3Cpath%20d%3D%22M139.736%2C282.7c10.106-4.4%2C17.6-12.224%2C17.6-25.426v-0.326A25.675%2C25.675%2C0%2C0%2C0%2C150%2C238.364c-6.682-6.52-16.788-10.106-31.131-10.106H60.362V342.35H119.2c27.218%2C0%2C43.191-11.9%2C43.191-31.457v-0.326C162.392%2C295.083%2C153.591%2C287.26%2C139.736%2C282.7Zm-48.57-29.011h20.7c9.29%2C0%2C14.343%2C3.422%2C14.343%2C9.779v0.326c0%2C6.682-5.542%2C9.942-15.158%2C9.942H91.166V253.685Zm39.607%2C52.808c0%2C6.682-5.379%2C10.431-15.158%2C10.431H91.166V295.9h24.123c10.594%2C0%2C15.484%2C4.075%2C15.484%2C10.269v0.326Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M335.8%2C227.444H305.325l-42.63%2C101.193-17.833-26.056c14.18-6.031%2C23.469-17.6%2C23.469-35.205V267.05c0-11.246-3.422-19.885-10.1-26.567-7.661-7.661-19.722-12.224-37.162-12.224H167.116V342.35h31.619V307.8h14.017l22.981%2C34.553H290l8.15-20.536h44.169l8.149%2C20.536h33.9Zm-99.093%2C42.05c0%2C8.312-6.357%2C13.529-16.951%2C13.529H198.736V255.477H219.6c10.432%2C0%2C17.114%2C4.564%2C17.114%2C13.692v0.325ZM307.444%2C297.2l12.877-32.271L333.033%2C297.2H307.444Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M388.119%20228.258H419.73800000000006V342.35H388.119z%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M427.56%20228.258L457.061%20228.258%20504.001%20288.564%20504.001%20228.258%20535.295%20228.258%20535.295%20342.35%20507.75%20342.35%20458.854%20279.763%20458.854%20342.35%20427.56%20342.35%20427.56%20228.258%22%2F%3E%3Cpath%20d%3D%22M537.277%2C325.4l17.6-21.025c11.409%2C8.964%2C23.8%2C13.691%2C37%2C13.691%2C8.638%2C0%2C13.2-2.934%2C13.2-7.824v-0.325c0-4.89-3.749-7.335-19.4-11.084-24.286-5.541-43.03-12.387-43.03-35.694v-0.326c0-21.188%2C16.788-36.509%2C44.17-36.509%2C19.4%2C0%2C34.553%2C5.216%2C46.94%2C15.158L617.956%2C263.79c-10.431-7.5-21.84-11.246-31.946-11.246-7.66%2C0-11.409%2C3.1-11.409%2C7.334V260.2c0%2C5.216%2C3.912%2C7.5%2C19.885%2C11.083%2C26.078%2C5.7%2C42.377%2C14.18%2C42.377%2C35.531v0.326c0%2C23.307-18.418%2C37.161-46.126%2C37.161C570.526%2C344.306%2C551.457%2C337.95%2C537.277%2C325.4Z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+  .header._default._adaptive .header__logo:after {
+    display: none;
+  }
+}
+
+.header._small .header__logo {
+  width: 40px;
+  height: 40px;
+}
+
+.header._small .header__logo:after {
+  width: 100%;
+  height: 100%;
+  background-image: url(data:image/svg+xml,%3Csvg%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20700%20700%22%3E%3Ctitle%3Ejetbrains-simple_2%3C%2Ftitle%3E%3Cpath%20d%3D%22M0%200H700V700H0z%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M60.379%20568.75H322.879V612.5H60.379z%22%2F%3E%3Cpath%20d%3D%22M57.428%2C184.315L77.8%2C165.083c5.542%2C6.682%2C10.758%2C10.594%2C17.929%2C10.594%2C7.823%2C0%2C12.877-5.378%2C12.877-15.972V87.5h31.457v72.367c0%2C14.343-3.586%2C24.448-11.246%2C32.109-7.5%2C7.5-18.254%2C11.572-31.294%2C11.572C77.638%2C203.548%2C65.577%2C195.236%2C57.428%2C184.315Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M147.394%2087.5L239.156%2087.5%20239.156%20114.23%20178.688%20114.23%20178.688%20131.67%20233.451%20131.67%20233.451%20156.607%20178.688%20156.607%20178.688%20174.699%20239.971%20174.699%20239.971%20201.592%20147.394%20201.592%20147.394%2087.5%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M280.491%20115.208L246.427%20115.208%20246.427%2087.5%20346.338%2087.5%20346.338%20115.208%20312.111%20115.208%20312.111%20201.592%20280.491%20201.592%20280.491%20115.208%22%2F%3E%3Cpath%20d%3D%22M139.736%2C282.7c10.106-4.4%2C17.6-12.224%2C17.6-25.426v-0.326A25.675%2C25.675%2C0%2C0%2C0%2C150%2C238.364c-6.682-6.52-16.788-10.106-31.131-10.106H60.362V342.35H119.2c27.218%2C0%2C43.191-11.9%2C43.191-31.457v-0.326C162.392%2C295.083%2C153.591%2C287.26%2C139.736%2C282.7Zm-48.57-29.011h20.7c9.29%2C0%2C14.343%2C3.422%2C14.343%2C9.779v0.326c0%2C6.682-5.542%2C9.942-15.158%2C9.942H91.166V253.685Zm39.607%2C52.808c0%2C6.682-5.379%2C10.431-15.158%2C10.431H91.166V295.9h24.123c10.594%2C0%2C15.484%2C4.075%2C15.484%2C10.269v0.326Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20d%3D%22M335.8%2C227.444H305.325l-42.63%2C101.193-17.833-26.056c14.18-6.031%2C23.469-17.6%2C23.469-35.205V267.05c0-11.246-3.422-19.885-10.1-26.567-7.661-7.661-19.722-12.224-37.162-12.224H167.116V342.35h31.619V307.8h14.017l22.981%2C34.553H290l8.15-20.536h44.169l8.149%2C20.536h33.9Zm-99.093%2C42.05c0%2C8.312-6.357%2C13.529-16.951%2C13.529H198.736V255.477H219.6c10.432%2C0%2C17.114%2C4.564%2C17.114%2C13.692v0.325ZM307.444%2C297.2l12.877-32.271L333.033%2C297.2H307.444Z%22%20fill%3D%22%23fff%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M388.119%20228.258H419.73800000000006V342.35H388.119z%22%2F%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M427.56%20228.258L457.061%20228.258%20504.001%20288.564%20504.001%20228.258%20535.295%20228.258%20535.295%20342.35%20507.75%20342.35%20458.854%20279.763%20458.854%20342.35%20427.56%20342.35%20427.56%20228.258%22%2F%3E%3Cpath%20d%3D%22M537.277%2C325.4l17.6-21.025c11.409%2C8.964%2C23.8%2C13.691%2C37%2C13.691%2C8.638%2C0%2C13.2-2.934%2C13.2-7.824v-0.325c0-4.89-3.749-7.335-19.4-11.084-24.286-5.541-43.03-12.387-43.03-35.694v-0.326c0-21.188%2C16.788-36.509%2C44.17-36.509%2C19.4%2C0%2C34.553%2C5.216%2C46.94%2C15.158L617.956%2C263.79c-10.431-7.5-21.84-11.246-31.946-11.246-7.66%2C0-11.409%2C3.1-11.409%2C7.334V260.2c0%2C5.216%2C3.912%2C7.5%2C19.885%2C11.083%2C26.078%2C5.7%2C42.377%2C14.18%2C42.377%2C35.531v0.326c0%2C23.307-18.418%2C37.161-46.126%2C37.161C570.526%2C344.306%2C551.457%2C337.95%2C537.277%2C325.4Z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E);
+}
+
+.header__logo-product {
+  margin-right: 15px;
+}
+
+.header__logo-product._size-2 {
+  margin-left: -12px;
+}
+
+.header__logo-product._size-3 {
+  margin-left: -15px;
+}
+
+.header._default._adaptive .header__logo-product {
+  margin-left: 0;
+}
+
+@media screen and (max-width: 960px) {
+  .header._default._adaptive .header__logo-product {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+a.header__logo:hover {
+  opacity: 0.7;
+}
+
+.header__hamburger {
+  margin-left: -15px;
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+  .header__hamburger {
+    display: block;
+    min-width: 50px;
+  }
+}
+
+.header__title {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  float: left;
+  padding-right: 30px;
+}
+
+.header__title:hover {
+  text-decoration: none;
+}
+
+.header._big .header__title {
+  height: 75px;
+}
+
+.header._default .header__title {
+  height: 75px;
+  font-size: 24px;
+}
+
+.header._small .header__title {
+  height: 40px;
+  font-size: 20px;
+}
+
+.header._adaptive .header__title {
+  color: #fff;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__title {
+    font-size: 18px;
+    height: 50px;
+  }
+}
+
+.header__menu {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.header._big .header__menu {
+  height: 75px;
+}
+
+.header._default .header__menu {
+  min-height: 75px;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+
+.header._small .header__menu {
+  height: 40px;
+}
+
+.header._adaptive .header__menu {
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  float: none;
+}
+
+@media screen and (min-width: 960px) {
+  .header._adaptive .header__menu {
+    position: relative;
+    width: auto;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    overflow-y: visible;
+    overflow-x: visible;
+    visibility: visible;
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0);
+    -webkit-transition: none;
+    transition: none;
+    z-index: auto;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__menu {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    min-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 200ms;
+    transition: all 200ms;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    display: block;
+    height: auto;
+    margin-top: 50px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    background-color: #3b3e43;
+    border-top: 1px solid #636465;
+  }
+  .header._adaptive .header__menu::after {
+    content: '';
+    display: block;
+    height: 100px;
+  }
+  .header._adaptive .header__menu.slide-content-open {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: translate(0);
+        -ms-transform: translate(0);
+            transform: translate(0);
+  }
+}
+
+.header__menu-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+}
+
+.header__menu-item._button {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+              -ms-grid-row-align: center;
+          align-items: center;
+  margin: 0 10px;
+}
+
+.header__menu-item._button:last-child {
+  margin-right: 0;
+}
+
+.header__menu-item .header__dropmenu {
+  display: none;
+}
+
+.header__menu-item:hover .header__menu-item-link, .header__menu-item:focus .header__menu-item-link {
+  background-color: #fff;
+  color: #343434 !important;
+}
+
+.header__menu-item:hover .header__dropmenu, .header__menu-item:focus .header__dropmenu {
+  display: block;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__menu-item {
+    display: block;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.header__menu-item-link {
+  float: left;
+}
+
+.header._default .header__menu-item-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: background-color 200ms;
+  transition: background-color 200ms;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.header._light .header__menu-item-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: background-color 200ms;
+  transition: background-color 200ms;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #18a3fa;
+}
+
+.header._small .header__menu-item-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: background-color 200ms;
+  transition: background-color 200ms;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.page-error .header__menu-item-link {
+  color: #161616 !important;
+}
+
+.header._adaptive .header__menu-item-link {
+  float: none;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__menu-item-link {
+    font-size: 14px;
+    font-weight: 700;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    border-bottom: 1px solid #636465;
+  }
+  .header._adaptive .header__menu-item-link:hover, .header._adaptive .header__menu-item-link:active, .header._adaptive .header__menu-item-link:focus {
+    color: #fff !important;
+    background-color: #474b51;
+  }
+}
+
+.header__dropmenu {
+  position: absolute;
+  z-index: 1000;
+  top: 100%;
+  left: 0;
+  margin-top: -5px;
+  padding-top: 5px;
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+._float-right .header__dropmenu {
+  left: auto;
+  right: 0;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__dropmenu {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    margin: auto;
+    padding-top: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    border-bottom: 1px solid #636465;
+  }
+}
+
+.header._default .header__dropmenu-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: background-color 200ms;
+  transition: background-color 200ms;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  height: 65px;
+  background-color: #3b3e43;
+}
+
+.header._default .header__dropmenu-item:hover {
+  background-color: #fff;
+  color: #343434 !important;
+}
+
+.header._small .header__dropmenu-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: background-color 200ms;
+  transition: background-color 200ms;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  height: 40px;
+  background-color: #3b3e43;
+}
+
+.header._small .header__dropmenu-item:hover {
+  background-color: #fff;
+  color: #343434 !important;
+}
+
+.page-error .header__dropmenu-item {
+  color: #161616 !important;
+  background: #fff !important;
+}
+
+@media screen and (max-width: 960px) {
+  .header._adaptive .header__dropmenu-item {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: 50px;
+  }
+}
+
+.header__logo-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header__container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header-buttons-wrapper {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.header-buttons-wrapper__button {
+  cursor: pointer;
+  border: 0;
+  background-color: #3b3e43;
+}
+
+@media screen and (min-width: 960px) {
+  .header-buttons-wrapper__button:hover {
+    background-color: #fff;
+  }
+}
+
+.header-search-button {
+  -webkit-flex-basis: 50px;
+      -ms-flex-preferred-size: 50px;
+          flex-basis: 50px;
+  width: 50px;
+  background-image: url(data:image/svg+xml,%0A%3C!--%20Generator%3A%20Adobe%20Illustrator%2016.0.4%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0A%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%2219.998px%22%20height%3D%2220px%22%20viewBox%3D%220%200%2019.998%2020%22%20enable-background%3D%22new%200%200%2019.998%2020%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M19.998%2C18.426l-4.386-4.374c1.156-1.477%2C1.848-3.332%2C1.848-5.346c0-4.8-3.917-8.706-8.73-8.706%0A%09C3.917%2C0%2C0%2C3.906%2C0%2C8.706c0%2C4.8%2C3.917%2C8.706%2C8.729%2C8.706c1.991%2C0%2C3.827-0.669%2C5.297-1.792L18.42%2C20L19.998%2C18.426z%20M8.729%2C15.186%0A%09c-3.583%2C0-6.498-2.907-6.498-6.48c0-3.573%2C2.915-6.479%2C6.498-6.479c3.583%2C0%2C6.498%2C2.906%2C6.498%2C6.479%0A%09C15.228%2C12.279%2C12.313%2C15.186%2C8.729%2C15.186z%22%20%2F%3E%0A%3C%2Fsvg%3E%0A);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 20px auto;
+}
+
+@media screen and (max-width: 960px) {
+  .header-search-button {
+    height: 50px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .header-search-button:hover {
+    background-image: url(data:image/svg+xml,%0A%3C!--%20Generator%3A%20Adobe%20Illustrator%2016.0.4%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0A%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%2219.998px%22%20height%3D%2220px%22%20viewBox%3D%220%200%2019.998%2020%22%20enable-background%3D%22new%200%200%2019.998%2020%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cpath%20fill%3D%22%23161616%22%20d%3D%22M19.998%2C18.426l-4.386-4.374c1.156-1.477%2C1.848-3.332%2C1.848-5.346c0-4.8-3.917-8.706-8.73-8.706%0A%09C3.917%2C0%2C0%2C3.906%2C0%2C8.706c0%2C4.8%2C3.917%2C8.706%2C8.729%2C8.706c1.991%2C0%2C3.827-0.669%2C5.297-1.792L18.42%2C20L19.998%2C18.426z%20M8.729%2C15.186%0A%09c-3.583%2C0-6.498-2.907-6.498-6.48c0-3.573%2C2.915-6.479%2C6.498-6.479c3.583%2C0%2C6.498%2C2.906%2C6.498%2C6.479%0A%09C15.228%2C12.279%2C12.313%2C15.186%2C8.729%2C15.186z%22%20%2F%3E%0A%3C%2Fsvg%3E%0A);
+  }
+}
+
+.header-search-button._active {
+  background-color: #fff;
+  background-image: url(data:image/svg+xml,%0A%3C!--%20Generator%3A%20Adobe%20Illustrator%2016.0.4%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0A%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%2218.414px%22%20height%3D%2218.415px%22%20viewBox%3D%220%200%2018.414%2018.415%22%20enable-background%3D%22new%200%200%2018.414%2018.415%22%20xml%3Aspace%3D%22preserve%22%3E%0A%20%20%3Cg%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M1.414%2C18.415L0%2C17L17%2C0l1.414%2C1.415L1.414%2C18.415z%22%20fill%3D%22%23161616%22%20%2F%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M17%2C18.415L18.414%2C17l-17-17L0%2C1.415L17%2C18.415z%22%20fill%3D%22%23161616%22%20%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A) !important;
+  background-size: 15px auto;
+}
+
+.header-search-container {
+  background-color: #fff;
+  padding-top: 75px;
+}
+
+@media screen and (max-width: 960px) {
+  .header-search-container {
+    padding-top: 50px;
+  }
+}
+
+.header-search-container__form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 25px 0 12px 0;
+  height: 50px;
+  border-bottom: 1px solid #cccbcb;
+}
+
+.header-search-container__input {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 50px;
+  border: 0;
+  color: #343434;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 50px;
+}
+
+.header-search-container__input:focus {
+  outline: 0;
+}
