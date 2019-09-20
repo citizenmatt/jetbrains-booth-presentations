@@ -9,6 +9,8 @@
 		<link rel="stylesheet" href="reveal.js/css/reset.css">
 		<link rel="stylesheet" href="reveal.js/css/reveal.css">
 		<link rel="stylesheet" href="reveal.js/css/theme/black.css">
+		<link rel="stylesheet" href="plugin/staggered/animate.css">
+		<link rel="stylesheet" href="plugin/staggered/staggered.css">
 	</head>
 	<body>
 		<div class="reveal">
@@ -51,10 +53,7 @@
 			transition: 'slide',
 
 			dependencies: [
-					{ src: 'reveal.js/plugin/markdown/marked.js' },
-					{ src: 'reveal.js/plugin/markdown/markdown.js' },
-					{ src: 'reveal.js/plugin/notes/notes.js', async: true },
-					{ src: 'reveal.js/plugin/highlight/highlight.js', async: true }
+				{ src: 'plugin/staggered/staggered.js', async: false }
 				]
 			});
 		</script>
