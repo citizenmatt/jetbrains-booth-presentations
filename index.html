@@ -9,10 +9,20 @@
 		<link rel="stylesheet" href="reveal.js/css/reset.css">
 		<link rel="stylesheet" href="reveal.js/css/reveal.css">
 		<link rel="stylesheet" href="reveal.js/css/theme/black.css">
+
 		<link rel="stylesheet" href="plugin/staggered/animate.css">
 		<link rel="stylesheet" href="plugin/staggered/staggered.css">
+
+		<!-- It would be nice if the plugin could load all of these for us -->
+		<script src="plugin/code2art/scene.js"></script>
+		<script src="plugin/code2art/player.bundle.js"></script>
+
+		<link rel="stylesheet" href="plugin/code2art/code2art.css">
 	</head>
 	<body>
+		<!-- This div becomes the parent for the code2art imagery -->
+		<div id="app"></div>
+
 		<div class="reveal">
 			<div class="slides">
 				<section>
@@ -53,7 +63,8 @@
 			transition: 'slide',
 
 			dependencies: [
-				{ src: 'plugin/staggered/staggered.js', async: false }
+				{ src: 'plugin/staggered/staggered.js', async: false },
+				{ src: 'plugin/code2art/code2art.js', async: false }
 				]
 			});
 		</script>
